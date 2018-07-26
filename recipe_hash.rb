@@ -22,7 +22,7 @@ perfect_10_recipe = {
 [:baking_soda] => "1/4 tea spoon", 
 [:Xanthan_Gum] => "1/2 tea spoon", 
 [:slivered_almonds_lightly_toasted] => "1/4 cup", 
-[:mini_dark_chocolate_chips => "3/4 cup", 
+[:mini_dark_chocolate_chips] => "3/4 cup", 
 [:olive_oil] => "1/2 cup", 
 [:agave] => "1/4 cup"
 }
